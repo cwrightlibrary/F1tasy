@@ -13,11 +13,11 @@ I chose Svelte for this project because of its simplicity in setting everything 
 ## App structure
 In regards to Svelte, the pages will probably look something like this.
 
-| Page Route | Purpose | Key functionality |
-|---|---|---|
-| `/` | Landing/Dashboard | User-specific view of their roster/standing |
-| `/login` | Auth | Better Auth sign-in/sign-up forms |
-| `/league` | League Lobby | List of all users and their team rankings |
-| `/team` | Team Manager | Drag-and-drop or button-based interface to add/release drivers |
-| `/market` | Trade/Sign | List available drivers/constructors with their *cost* |
-| `/resources` | Info | Historical stats, rules, and F1 technical context |
+| Page Route   | Purpose           | Key functionality                                              |
+| ------------ | ----------------- | -------------------------------------------------------------- |
+| `/`          | Landing/Dashboard | User-specific view of their roster/standing                    |
+| `/login`     | Auth              | Better Auth sign-in/sign-up forms                              |
+| `/league`    | League Lobby      | List of all users and their team rankings                      |
+| `/team`      | Team Manager      | Drag-and-drop or button-based interface to add/release drivers |
+| `/market`    | Trade/Sign        | List available drivers/constructors with their *cost*          |
+| `/resources` | Info              | Historical stats, rules, and F1 technical context              |
