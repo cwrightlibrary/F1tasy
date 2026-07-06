@@ -8,6 +8,7 @@ I chose Svelte for this project because of its simplicity in setting everything 
 - [Better Auth](https://better-auth.com/) - for signing up, logging in, tracking player
 - [drizzle](https://orm.drizzle.team/) - for database, user information, driver information
 - [OpenF1](https://openf1.org/) - for the F1 statistics (help players with choosing player)
+- [Zod](https://zod.dev/) - TypeScript-first schema validation with static type inference
 
 ## App structure
 In regards to Svelte, the pages will probably look something like this.
